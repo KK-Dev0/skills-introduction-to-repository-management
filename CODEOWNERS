@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @KK-Dev0
+/src/backend/database.py      @KK-Dev0
+/src/backend/routers/auth.py  @KK-Dev0
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @KK-Dev0
